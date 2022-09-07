@@ -1,0 +1,41 @@
+
+body{
+  background-color: #000;
+  color: #00f;
+  overflow: hidden;
+}
+.container{
+  width: 100vw;
+  text-align: center;
+  margin: 100px 0px;
+}
+header{
+  width: 100vw;
+  font-size: 60px;
+  margin-bottom: 60px;
+}
+button{
+  font-size: 20px;
+  background-image: linear-gradient(to right, red, blue);
+  padding: 10px;
+  color: white;
+  border-radius: 50%;
+  height: 100px;
+  margin: 0px 30px;
+  width: 100px;
+}
+.count{
+  font-size: 100px;
+  margin-bottom: 60px;
+}
+footer{
+  width: 100vw;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: #fff5;
+}
+footer{
+  color: #324;
+}
